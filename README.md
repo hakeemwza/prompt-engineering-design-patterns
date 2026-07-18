@@ -1,5 +1,4 @@
-# prompt-engineering-design-patterns
-Production-ready prompt engineering patterns, evaluation frameworks, agentic workflows, and LLM application architecture examples for modern AI systems.
+
 # Prompt Engineering Design Patterns
 
 A practical collection of reusable prompt design patterns, evaluation methods, and implementation examples for building reliable LLM-powered applications.
